@@ -1,6 +1,24 @@
 # Call-Center-Data-Analysis
 
 
+## Table of Contents 
+
+- [Project Objective](#project-objective)
+- [Dataset Used](#dataset-used)
+- [Questions (KPIs)](#questions-(KPIs))
+- [Dashboard Link](#dashboard-link)
+- [Steps Followed](#steps-followed)
+- [Dashboard](#dashboard)
+- [Project Insights](#project-insights)
+- [Answered Calls](#answered-calls)
+- [Resolved calls](#resolved-calls)
+- [Average Speed of Answer](#average-speed-of-answer)
+- [Average Customer Satisfaction](#average-customer-satisfaction)
+- [Agent Statistics](#agent-statistics)
+- [Conclusion](#conclusion)
+- [Recommendations](#recommendations)
+
+
 ## Project Objective
 
 
@@ -13,7 +31,7 @@ The goal of this project is to design an interactive and detailed Power BI dashb
 - <a href = "https://github.com/tonyvolen/Call-Center-Data-Analysis/blob/main/01%20Call-Center-Dataset.xlsx">Dataset</a>
 
 
-## questions (KPIs)
+## Questions (KPIs)
 
 
 - what is the overall customer satisfaction ?
@@ -22,14 +40,14 @@ The goal of this project is to design an interactive and detailed Power BI dashb
 - what is the average speed of answer by agents ?
 - what is the agent’s performance quadrant ie average handle time (talk duration) vs calls answered ?
 
-  ## Dashboard link
+  ## Dashboard Link
 
 
 - <a href = "https://github.com/tonyvolen/Call-Center-Data-Analysis/blob/main/Call%20Center.pbix">View Dashboard</a>
 
 
 
-## Steps followed
+## Steps Followed
 
 
 - Load data into Power BI Desktop, dataset is a csv file.
@@ -57,9 +75,9 @@ The goal of this project is to design an interactive and detailed Power BI dashb
 
 
 
-## project Insights 
+## Project Insights 
 
-### 1. Answered Calls
+### Answered Calls
 
 
 I utilized a doughnut chart to visualize the distribution of total calls, revealing that 81.08% were answered, while 18.92% were abandoned. This indicates that approximately 19% of incoming calls were terminated by customers before reaching an agent, which is a critical metric for assessing customer service efficiency. A high call abandonment rate can suggest issues such as long wait times or inadequate staffing, potentially leading to decreased customer satisfaction.
@@ -98,7 +116,7 @@ A snapshot of number of calls per month
 
 
 
-### 2. Resolved calls
+### Resolved calls
 
 
 I employed a doughnut chart to visualize the distribution of total calls, revealing that 72.92% were resolved, while 27.08% remained unresolved. This indicates that approximately 27% of customer inquiries or issues required follow-up interactions, which can impact customer satisfaction and operational efficiency. A high unresolved call rate may suggest challenges in resolving customer issues on the first contact, potentially leading to increased operational costs and decreased customer satisfaction. Improving the resolution rate is crucial for enhancing customer experience and reducing the need for repeat contacts.
@@ -115,7 +133,7 @@ A snapshot of Resolved calls(Y/n).
 
 
 
-### 3. Average Speed of Answer
+### Average Speed of Answer
 
 
 Upon visualizing the average speed of answering calls, I found that it was 67.52 seconds. This metric indicates the average duration customers wait before their calls are answered by an agent. Industry standards typically aim for an average speed of answer (ASA) between 20 to 30 seconds.Therefore, an ASA of 67.52 seconds is significantly higher than the recommended benchmark, suggesting that customers are experiencing longer wait times than ideal. Extended wait times can lead to increased customer frustration and higher call abandonment rates, potentially impacting overall customer satisfaction. Addressing this issue may involve optimizing staffing levels, improving call routing processes, or enhancing the efficiency of the interactive voice response (IVR) system to reduce wait times. 
@@ -130,7 +148,7 @@ Snapshot of Average Speed of answer
 
 
 
-### 4. Average Customer Satisfaction
+###  Average Customer Satisfaction
 
 
 An analysis of the average customer satisfaction score revealed a rating of 3.40, falling short of the target of 4.50. This indicates that, on average, customers were neither satisfied nor dissatisfied, suggesting a neutral perception of the service provided. The satisfaction scale ranged from 1 to 5, with 1 representing 'extremely dissatisfied' and 5 representing 'extremely satisfied'. 
@@ -149,7 +167,7 @@ A snapshot of Average Customer Satisfaction
 
 
 
-### 5. Agent Statistic
+###  Agent Statistics
 
 
 I analyzed agent performance statistics and found the following:
