@@ -5,7 +5,7 @@
 
 - [Project Objective](#project-objective)
 - [Dataset Used](#dataset-used)
-- [Questions (KPIs)](#questions-(KPIs))
+- [Questions (KPIs)](#questions-kpis)
 - [Dashboard Link](#dashboard-link)
 - [Steps Followed](#steps-followed)
 - [Dashboard](#dashboard)
@@ -65,7 +65,8 @@ The goal of this project is to design an interactive and detailed Power BI dashb
 
 
 
- ![Call Center 2_7_2025 10_29_02 AM](https://github.com/user-attachments/assets/27d5b7d2-7a5b-4ebc-bf55-faf350c8c7a1)
+ ![Call Center 3_3_2025 11_57_36 AM](https://github.com/user-attachments/assets/55096a67-684b-469f-b866-373a0f76c131)
+
 
 
 
